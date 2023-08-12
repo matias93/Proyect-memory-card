@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@testing-library/react": "^14.0.0",
+    "axios-mock-adapter": "^1.21.5"
+  }
+}
